@@ -1,4 +1,4 @@
-#                                                                                 Miral
+                                                                                  Miral
                                                                          Computer refurbishment 
                                                                            And software sales
 
