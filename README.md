@@ -1,6 +1,6 @@
-                                                                                  Miral
-                                                                         Computer refurbishment 
-                                                                           And software sales
+                                                                 Miral
+                                                          Computer refurbishment 
+                                                           And software sales
 
 
 Bienvenue sur le github de miral.
